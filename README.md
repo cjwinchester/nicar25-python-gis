@@ -4,7 +4,7 @@
 
 This repository contains materials for an introductory workshop at the NICAR 2025 conference on using Python to analyze GIS data.
 
-The session is scheduled for Thursday, March 6, from 11:30 a.m. – 12:30 p.m. in room `Excelsior Bay` on the eighth floor.
+The session is scheduled for Thursday, March 6, from 11:30 a.m. – 12:30 p.m. in room `Lafayette Bay` on the eighth floor.
 
 🗺️ Don't miss "Advanced Python mapping techniques" with Ari Sen at 2:15 p.m. in the same room. For a deeper dive, check out ["Fun with shapes: Scripted mapping in R or Python"](https://www.ire.org/product/nicar25-fun-with-shapes-scripted-mapping-in-r-or-python/) ($40) on Saturday morning.
 
@@ -17,19 +17,14 @@ cd Desktop/hands_on_classes/20250306-thursday-using-python-to-analyze-map-data &
 
 ### Course outline
 - Hello, geopandas!
-- Overview of geometry data types
 - Points-in-polygon analysis
-- Spatial joins
-- Calculating a buffer
+- Calculating overlay areas
 - (Bonus!) Downloading GIS data from a public ArcGIS server
 
 ### Resources
 - [Geopandas documentation](https://geopandas.org/en/stable/)
 - Online book: ["Introduction to Python for Geographic Data Analysis"](https://pythongis.org/)
 - [Free courses and textbooks from the University of Colorado Earth Lab](https://www.earthdatascience.org/courses/)
-
-### Work on these notebooks at home
-Feel free to copy these notebooks to use as boilerplate for your own analyses.
 
 #### Using Google CoLab or Binder
 You can run these notebooks by plugging this GitHub repository's URL into [Google CoLab](https://colab.research.google.com/) or [Binder](https://notebooks.gesis.org/binder/), both easy-to-use, cloud-based Python notebook environments.
