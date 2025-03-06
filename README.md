@@ -21,6 +21,11 @@ cd Desktop/hands_on_classes/20250306-thursday-using-python-to-analyze-map-data &
 - Calculating overlay areas
 - (Bonus!) Downloading GIS data from a public ArcGIS server
 
+🛜 On the off chance the shapefiles aren't available, they're mirrored here:
+- [U.S. counties](https://schedules.ire.org/nicar-2025/files/cb_2023_us_county_20m.zip)
+- [Forest Service office locations](https://schedules.ire.org/nicar-2025/files/Forest_Service_Office_Locations.zip)
+- [Minnesota old-growth forests](https://schedules.ire.org/nicar-2025/files/shp_biota_dnr_forest_inv_old_growth.zip)
+
 ### Resources
 - [Geopandas documentation](https://geopandas.org/en/stable/)
 - Online book: ["Introduction to Python for Geographic Data Analysis"](https://pythongis.org/)
